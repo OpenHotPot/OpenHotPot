@@ -54,7 +54,7 @@ require (
 	github.com/hashicorp/go-multierror v1.1.1
 	github.com/hashicorp/go-raftchunking v0.7.0
 	github.com/hashicorp/go-retryablehttp v0.6.7
-	github.com/hashicorp/go-secure-stdlib/awsutil v0.1.6
+	github.com/hashicorp/go-secure-stdlib/awsutil v0.3.0
 	github.com/hashicorp/go-sockaddr v1.0.2
 	github.com/hashicorp/go-syslog v1.0.0
 	github.com/hashicorp/go-uuid v1.0.3
